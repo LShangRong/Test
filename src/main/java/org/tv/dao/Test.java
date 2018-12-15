@@ -5,10 +5,6 @@ public class Test {
 
        }
      public void like(){
-         System.out.println("fdjshfk");
-         int d;
-         int djjas;
-         int ijf;
-         int dkjfs;
+       int dhjfsadkfsdjk;
      }
 }
