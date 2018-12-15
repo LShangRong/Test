@@ -5,5 +5,6 @@ public class Test {
 
        }
      public void like(){
+         System.out.println("fdjshfk");
      }
 }
