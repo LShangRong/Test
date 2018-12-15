@@ -8,5 +8,6 @@ public class Test {
          System.out.println("fdjshfk");
          int d;
          int djjas;
+         int ijf;
      }
 }
